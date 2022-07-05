@@ -10,7 +10,7 @@ def chk():
 
   try: 
 
-    httpCaht = requests.get("https://raw.githubusercontent.com/br5kly/test/main/subc.json").text 
+    httpCaht = requests.get("https://pastebin.com/uiJ852NB").text 
 
     if id in httpCaht: 
 
